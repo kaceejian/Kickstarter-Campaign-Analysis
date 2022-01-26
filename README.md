@@ -52,22 +52,22 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 
-- 1. Based on the analysis, we can conclude that between year 2009 to 2017, out of 4064 Kickstarter campaigns around the world, there are 54% that were successful, 38% failed, and 9% canceled.
+- First, based on the analysis, we can conclude that between year 2009 to 2017, out of 4064 Kickstarter campaigns around the world, there are 54% that were successful, 38% failed, and 9% canceled.
 
 ![ScreenShot1](/images/1.png)
 
-- 2. Based on the analysis, we can conclude that the categories that have the highest number of campaigns are, first, “theater”, which as 1369 campaigns, then second is “music” with 680 campaigns, and the third is “technology” with 600 cases. (Please see below image for reference.)
+- Secondly, based on the analysis, we can conclude that the categories that have the highest number of campaigns are, first, “theater”, which as 1369 campaigns, then second is “music” with 680 campaigns, and the third is “technology” with 600 cases. (Please see below image for reference.)
 
 ![ScreenShot1](/images/2.png)
 
-    - However, regarding the actual success rate among these categories, we can see that for “theater”, success rate is about 61.29%, whereas the “music” success rate is as high as 79.41%, and “technology” success rate is only about 34.83%. (Please see below image for reference.)
+    However, regarding the actual success rate among these categories, we can see that for “theater”, success rate is about 61.29%, whereas the “music” success rate is as high as 79.41%, and “technology” success rate is only about 34.83%. (Please see below image for reference.)
 
 ![ScreenShot1](/images/3.png)
 
-    - On the other hand, the category that has the fewest campaigns as well as lowest success rate is “journalism”, which only has 24 submissions and all 24 of them were cancelled.
+    On the other hand, the category that has the fewest campaigns as well as lowest success rate is “journalism”, which only has 24 submissions and all 24 of them were cancelled.
 
-- 3. From the pivot-table based on the sub-categories, we can see that “plays” has the highest number of campaigns, 1066, which is about 25.91% out of the total of 4114 campaigns.
-     (Please see below image for reference.)
+- Thirdly, from the pivot-table based on the sub-categories, we can see that “plays” has the highest number of campaigns, 1066, which is about 25.91% out of the total of 4114 campaigns.
+  (Please see below image for reference.)
 
 ![ScreenShot1](/images/4.png)
 
