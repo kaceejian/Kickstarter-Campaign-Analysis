@@ -30,8 +30,6 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
   - Create a stacked column pivot chart that can be filtered by country based on the table you have created.
 
-  ![Subcategory Stats](Images/SubcategoryStats.PNG)
-
   - Create a new sheet with a pivot table that will analyze your initial sheet to count how many campaigns were successful, failed, or canceled, or are currently live per **sub-category**.
 
   - Create a stacked column pivot chart that can be filtered by country and parent-category based on the table you have created.
@@ -44,8 +42,6 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
   - Create a new column named `Date Ended Conversion` that will use [this formula](https://www.extendoffice.com/documents/excel/2473-excel-timestamp-to-date.html) to convert the data contained within `deadline` into Excel's date format.
 
-  ![Outcomes Based on Launch Date](Images/LaunchDateOutcomes.PNG)
-
   - Create a new sheet with a pivot table with a column of `state`, rows of `Date Created Conversion`, values based on the count of `state`, and filters based on `parent category` and `Years`.
 
   - Now create a pivot chart line graph that visualizes this new table.
@@ -56,11 +52,11 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 
-   - 1. Based on the analysis, we can conclude that between year 2009 to 2017, out of 4064 Kickstarter campaigns around the world, there are 54% that were successful, 38% failed, and 9% canceled.
+1) Based on the analysis, we can conclude that between year 2009 to 2017, out of 4064 Kickstarter campaigns around the world, there are 54% that were successful, 38% failed, and 9% canceled.
 
-     ![ScreenShot1](/images/1.png)
+   ![ScreenShot1](/images/1.png)
 
-   - 2. Based on the analysis, we can conclude that the categories that have the highest number of campaigns are, first, “theater”, which as 1369 campaigns, then second is “music” with 680 campaigns, and the third is “technology” with 600 cases. (Please see below image for reference.)
+2) Based on the analysis, we can conclude that the categories that have the highest number of campaigns are, first, “theater”, which as 1369 campaigns, then second is “music” with 680 campaigns, and the third is “technology” with 600 cases. (Please see below image for reference.)
 
 ![ScreenShot1](/images/2.png)
 
