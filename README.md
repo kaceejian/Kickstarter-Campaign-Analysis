@@ -50,7 +50,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
 ## Research Questions & Analysis/Conclusions
 
-1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
+### 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 
 - First, based on the analysis, we can conclude that between year 2009 to 2017, out of 4064 Kickstarter campaigns around the world, there are 54% that were successful, 38% failed, and 9% canceled.
 
@@ -71,18 +71,18 @@ On the other hand, the category that has the fewest campaigns as well as lowest 
 
 ![ScreenShot1](/images/4.png)
 
-2. What are some limitations of this dataset?
+### 2. What are some limitations of this dataset?
 
-   - There are some limitations of this dataset, for example, it would be better if we can obtain the links to each of the project to further analyze on how the actual content of the campaign and the presentation, such as graphic design and arrangement of the materials, etc., would affect the overall attractiveness and gain attention from the audience.
+- There are some limitations of this dataset, for example, it would be better if we can obtain the links to each of the project to further analyze on how the actual content of the campaign and the presentation, such as graphic design and arrangement of the materials, etc., would affect the overall attractiveness and gain attention from the audience.
 
-   - It would also be a good reference to know more about the team that creates this campaigns, for example, how many people are on the team, as well as the overall background and scale of the company. For example, some campaigns are created by one person only, but some are backed by an investment company, etc. With this information, we can further analyze regarding the relationship between the person/company that is operating the campaign, their resources, and the success rate.
+- It would also be a good reference to know more about the team that creates this campaigns, for example, how many people are on the team, as well as the overall background and scale of the company. For example, some campaigns are created by one person only, but some are backed by an investment company, etc. With this information, we can further analyze regarding the relationship between the person/company that is operating the campaign, their resources, and the success rate.
 
-3. What are some other possible tables and/or graphs that we could create?
+### 3. What are some other possible tables and/or graphs that we could create?
 
-   - There are several other possible tables/graphs that we could create, such as the pivot tables that show the relative successful and failed campaign percentage (%) in comparison to the overall number of campaigns, as created and shown in #2.
-   - We could also create a table/graph to compare the categories against the overall time it took to complete a successful campaign.
-   - Another table/graph we could create is to compare the successful and failed categories among different countries. This way, it can help people who want to start a campaign, to gauge further on the target market/country that they want to invest in.
-   - Also, as mentioned in #2, if we can acquire more information regarding the company scale behind each campaign, we can create a table/graph based on the company size V.S. success rate, to further evaluate if the company resources have any impact on the success of the campaign. In addition, we can also create a table/graph to evaluate the relationship between the marketing/advertising resources that the companies invested in outside of the Kickstarter platform V.S. the time that the Kickstarter campaign took to be successful, to see if there’s any pattern between the two.
+- There are several other possible tables/graphs that we could create, such as the pivot tables that show the relative successful and failed campaign percentage (%) in comparison to the overall number of campaigns, as created and shown in #2.
+- We could also create a table/graph to compare the categories against the overall time it took to complete a successful campaign.
+- Another table/graph we could create is to compare the successful and failed categories among different countries. This way, it can help people who want to start a campaign, to gauge further on the target market/country that they want to invest in.
+- Also, as mentioned in #2, if we can acquire more information regarding the company scale behind each campaign, we can create a table/graph based on the company size V.S. success rate, to further evaluate if the company resources have any impact on the success of the campaign. In addition, we can also create a table/graph to evaluate the relationship between the marketing/advertising resources that the companies invested in outside of the Kickstarter platform V.S. the time that the Kickstarter campaign took to be successful, to see if there’s any pattern between the two.
 
 ---
 
