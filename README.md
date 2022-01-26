@@ -60,11 +60,11 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 
 ![ScreenShot1](/images/2.png)
 
-    However, regarding the actual success rate among these categories, we can see that for “theater”, success rate is about 61.29%, whereas the “music” success rate is as high as 79.41%, and “technology” success rate is only about 34.83%. (Please see below image for reference.)
+However, regarding the actual success rate among these categories, we can see that for “theater”, success rate is about 61.29%, whereas the “music” success rate is as high as 79.41%, and “technology” success rate is only about 34.83%. (Please see below image for reference.)
 
 ![ScreenShot1](/images/3.png)
 
-    On the other hand, the category that has the fewest campaigns as well as lowest success rate is “journalism”, which only has 24 submissions and all 24 of them were cancelled.
+On the other hand, the category that has the fewest campaigns as well as lowest success rate is “journalism”, which only has 24 submissions and all 24 of them were cancelled.
 
 - Thirdly, from the pivot-table based on the sub-categories, we can see that “plays” has the highest number of campaigns, 1066, which is about 25.91% out of the total of 4114 campaigns.
   (Please see below image for reference.)
